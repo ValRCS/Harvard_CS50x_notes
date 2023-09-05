@@ -11,6 +11,12 @@ The course teaches basics of programming, using Scratch, C and Python.
 
 * Official Site 2023 - https://cs50.harvard.edu/x/2023/
 
+## Requirements to complete the course
+
+* A few hours every week
+* Internet connection - 
+* Github account - https://github.com - (Microsoft paid 8 Billion USD for this a few years ago....)
+  
 ## Day -1
 
 ### Core Ideas 
@@ -22,3 +28,4 @@ The course teaches basics of programming, using Scratch, C and Python.
 * Abstractions
 * Computer hardware - goes down to 0s and 1s
 * Software - for humans yet also for computers in the end
+* Cloud - someone else's computer..
