@@ -31,7 +31,7 @@ License:
 * Automate the boring stuff!
 * Making machines do what we want
 * Computers are stupid - they only do what we tell them to
-* Abstractions
+* Abstractions - Hide the complexity, show only what is needed, do not leak!
 * Computer hardware - goes down to 0s and 1s
 * Software - for humans yet also for computers in the end
 * Cloud - someone else's computer..
