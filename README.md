@@ -2,6 +2,8 @@
 
 Teaching Notes for CS50x the massively online computer science course from Harvard.
 
+This course is suitable for complete beginners to IT and specifically Computer Science.
+
 These are notes for CS50x as taught at Riga Technical University / Riga Business School by me - Valdis Saulespurens
 e-mail valdis.saulespurens@rbs.lv
 
@@ -19,9 +21,9 @@ License:
 
 * A few hours every week
 * Internet connection - 
-* Github account - https://github.com - (Microsoft paid 8 Billion USD for this a few years ago....)
+* Github account - https://github.com - (Microsoft paid 8 Billion USD for Github a few years ago....)
   
-## Day -1(negative 1)
+## Day -1(minus 1..)
 
 ### Core Ideas 
 
