@@ -2,7 +2,7 @@
 
 Teaching Notes for CS50x the massively online computer science course from Harvard.
 
-This course is suitable for complete beginners to IT and specifically Computer Science.
+This course is suitable for complete beginners to IT and especifically those new to Computer Science and Programming.
 
 These are notes for CS50x as taught at Riga Technical University / Riga Business School by me - Valdis Saulespurens
 e-mail valdis.saulespurens@rbs.lv
